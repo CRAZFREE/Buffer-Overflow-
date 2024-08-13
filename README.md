@@ -44,7 +44,7 @@ Given the vulnerabilities identified, the most suitable attack for executing arb
 SecureSystemEngineering_Assignment2/
 ├── README.md
 ├── source_code/
-│   ├── assignment_2.c       # Vulnerable C code
+│   ├── source_code.c       # Vulnerable C code
 │   ├── exploit.c            # Exploit code demonstrating the attack
 ├── docs/
 │   ├── report.pdf           # Detailed report on the vulnerabilities and exploit
